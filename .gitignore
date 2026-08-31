@@ -1,0 +1,23 @@
+# genome datasets (very large)
+ecoli_genomes/
+saureus_genomes/
+ecoli_fna/
+saureus_fna/
+ncbi_dataset/
+
+# raw downloaded datasets
+Data/
+
+# large ML dataset
+Scripts/Data_Cleaning_And_ Dataset_Preparation/ecoli_final_ml_dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# notebook temp files
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
